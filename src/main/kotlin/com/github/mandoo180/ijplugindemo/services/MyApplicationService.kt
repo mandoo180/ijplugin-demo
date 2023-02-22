@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mandoo180.ijplugindemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mandoo180.ijplugindemo.MyBundle
 
 class MyApplicationService {
 
